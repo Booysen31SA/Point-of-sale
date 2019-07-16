@@ -286,6 +286,7 @@
       <DependentUpon>JMDDatabase.mdf</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="README!!.txt" />
     <EmbeddedResource Include="Resources\Password_See.png" />
     <EmbeddedResource Include="Resources\Loading_Screen.png" />
     <EmbeddedResource Include="Resources\home_screen_our_icon.ico" />
