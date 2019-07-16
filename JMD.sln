@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMD", "JMD\JMD.csproj", "{4C671F05-72F1-475F-B93F-B1A0300659A9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "JMD Setup", "JMD Setup\JMD Setup.vdproj", "{0A39A9F6-7E1E-42AC-AD0C-9806AF021922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C671F05-72F1-475F-B93F-B1A0300659A9}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{4C671F05-72F1-475F-B93F-B1A0300659A9}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{4C671F05-72F1-475F-B93F-B1A0300659A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C671F05-72F1-475F-B93F-B1A0300659A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A39A9F6-7E1E-42AC-AD0C-9806AF021922}.Debug|Any CPU.ActiveCfg = Debug
+		{0A39A9F6-7E1E-42AC-AD0C-9806AF021922}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2141135B-1AE5-415C-BC66-92EFB134CF3B}
+	EndGlobalSection
+EndGlobal
