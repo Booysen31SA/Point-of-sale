@@ -8,7 +8,7 @@ Go to JMD setup/debug, either program is used to install the 'final product', Wh
 Link to download SetUp Only
 https://drive.google.com/file/d/1-63XWnUXnLS1Rb5EXgj6izBLzfsN4MR8/view?usp=drivesdk Size:6.4mb
 
-#TODO
+# TODO
 1. Link inventory to ordering
 2. re-do Loading screen
 3. Stats
