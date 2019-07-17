@@ -12,6 +12,7 @@ https://drive.google.com/file/d/1-63XWnUXnLS1Rb5EXgj6izBLzfsN4MR8/view?usp=drive
 1. Link inventory to ordering
 2. re-do Loading screen
 3. Stats
+4. Re-size screen to cover entire screen
 
 When Cloning do the Following
 -Create Own Branch, Or for it so i can pull changes
